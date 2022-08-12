@@ -1,6 +1,6 @@
-# Program: [Your Initials]_7dayThermometer.py
+# Program: [NM]_7dayThermometer.py
 # Date: 8-Jun-2022
-# Author: [Your Name] (Student #[Your Student Number])
+# Author: [Naveen Mishra-9988018243]
 # Description: The program reads the temp in celsius of a week and displays the temp in Fahrenhite along with max,min and totaltemp of the week 
 weeks=["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"]
 tempCelsius=[]
